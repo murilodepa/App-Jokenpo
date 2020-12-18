@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokempô</string>
+    <string name="chooseAndResultText">Choose an option below:</string>
+    <string name="choiceOfAPP">Choice of APP</string>
+    <string name="defaultImageInitial">Default Imagem and Initial</string>
+    <string name="rockImage">rock Image</string>
+    <string name="paperImage">Paper Image</string>
+    <string name="scissorImage">Scissor Image</string>
+</resources>
